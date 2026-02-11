@@ -1,0 +1,50 @@
+{
+    "Good Air Quality": {
+        "CO": 2.0,
+        "Ozone": 25.0,
+        "PM10": 10.0,
+        "PM25": 15.0,
+        "NO2": 15.0,
+        "description": "Clean air, safe for all activities"
+    },
+    "Moderate Air Quality": {
+        "CO": 5.0,
+        "Ozone": 50.0,
+        "PM10": 30.0,
+        "PM25": 35.0,
+        "NO2": 30.0,
+        "description": "Acceptable, sensitive groups may be affected"
+    },
+    "Unhealthy Air Quality": {
+        "CO": 8.0,
+        "Ozone": 80.0,
+        "PM10": 60.0,
+        "PM25": 70.0,
+        "NO2": 60.0,
+        "description": "Everyone may experience health effects"
+    },
+    "Very Unhealthy": {
+        "CO": 12.0,
+        "Ozone": 120.0,
+        "PM10": 90.0,
+        "PM25": 110.0,
+        "NO2": 90.0,
+        "description": "Health alert - avoid outdoor activities"
+    },
+    "Typical Hyderabad Day": {
+        "CO": 6.5,
+        "Ozone": 32.0,
+        "PM10": 45.0,
+        "PM25": 55.0,
+        "NO2": 28.0,
+        "description": "Average conditions in Hyderabad"
+    },
+    "Typical Bangalore Day": {
+        "CO": 4.5,
+        "Ozone": 35.0,
+        "PM10": 32.0,
+        "PM25": 40.0,
+        "NO2": 25.0,
+        "description": "Average conditions in Bangalore"
+    }
+}
